@@ -1,7 +1,7 @@
 <img width="811" height="250" alt="Screenshot 2025-09-28 at 5 36 27 PM" src="https://github.com/user-attachments/assets/e3597eb9-0c72-4e63-9bd4-3d225cfd0aa6" />
 
 
-<h1>I'm Ella.</h1>
+<h1>Hello, I'm Ella.</h1>
 
 
 
