@@ -4,9 +4,7 @@
 # Hi,  I'm Ella.
 <p>
   <h3>Information Technology Specialist</h3>
-  And .....
-  And ...
-  <br>
+  <h4>& Online Portfolio Developer</h4>
   <br>
 </p>
 
