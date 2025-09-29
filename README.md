@@ -7,17 +7,6 @@
 </p>
 
 
-
-## Information Technology Specialist
-
-
-
-
-## Test
-
-Test
-
-
 ## About Me
 
 Test
