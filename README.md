@@ -20,9 +20,8 @@ Skills paragraph...
 
 ## 💜ྀི Certifications
 
-Certs paragraph...<br>
 - CompTIA Security+  ( in progress )<br>
-- Google Cybersecurity Professional Certificate
+- Google Cybersecurity Professional Certificate<br>
 
 ## 👾 Languages & Tools
 
