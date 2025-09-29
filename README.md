@@ -3,7 +3,6 @@
 # Hi,  I'm Ella.
 <p>
   <h3>Information Technology Specialist  &nbsp|&nbsp  Online Portfolio Developer</h3>
-  <br>
 </p>
 
 ## 🍇 About Me
