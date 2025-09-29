@@ -10,11 +10,11 @@
   <br>
 </p>
 
-## About Me
+## 💜 About Me
 
 About me section paragraph...
 
-## Skills
+## 👾 Skills
 
 Skills paragraph...
 
