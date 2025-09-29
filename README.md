@@ -3,7 +3,7 @@
 
 # Hi,  I'm Ella.
 <p>
-  <h3>Information Technology Specialist  |  Online Portfolio Developer</h3>
+  <h3>Information Technology Specialist  &nbsp|&nbsp  Online Portfolio Developer</h3>
   <h4>& Online Portfolio Developer</h4>
   <br>
 </p>
