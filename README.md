@@ -26,7 +26,7 @@ Certs paragraph...
 
 Languages and Tools section...
 
-## Education
+## ✎ Education
 
 
 
