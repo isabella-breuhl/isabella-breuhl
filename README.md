@@ -10,7 +10,7 @@
   <br>
 </p>
 
-## 💜 About Me
+## 🍇 About Me
 
 About me section paragraph...
 
@@ -18,7 +18,7 @@ About me section paragraph...
 
 Skills paragraph...
 
-## ☆ Certifications
+## 💜ྀི Certifications
 
 Certs paragraph...
 
@@ -26,9 +26,11 @@ Certs paragraph...
 
 Languages and Tools section...
 
-## ✎ Education
+## 🪻 Education
 
-
+University of Wisconsin-La Crosse 25'
+Bachelors of Science
+Computer Science
 
 
 - 🔭 I’m currently working on ...
