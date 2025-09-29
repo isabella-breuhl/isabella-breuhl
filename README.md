@@ -3,7 +3,7 @@
 
 # Hi,  I'm Ella.
 <p>
-  <h4>IT Specialist</h4>
+  <h3>Information Technology Specialist</h3>
 </p>
 
 
