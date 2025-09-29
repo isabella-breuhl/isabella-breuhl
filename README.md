@@ -28,7 +28,7 @@ Languages and Tools section...
 
 ## 🪻 Education
 
-<h4>University of Wisconsin-La Crosse 25'</h4>
+<h4>University of Wisconsin  25'</h4>
 <h4>Bachelor of Science, Computer Science</h4>
 
 
