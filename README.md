@@ -14,7 +14,7 @@
 
 About me section paragraph...
 
-## 👾 Skills
+## 🔮 Skills
 
 Skills paragraph...
 
@@ -22,7 +22,7 @@ Skills paragraph...
 
 Certs paragraph...
 
-## Languages & Tools
+## 👾 Languages & Tools
 
 Languages and Tools section...
 
