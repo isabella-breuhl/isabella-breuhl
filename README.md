@@ -4,18 +4,30 @@
 # Hi,  I'm Ella.
 <p>
   <h3>Information Technology Specialist</h3>
+  And .....
+  And ...
+  <br>
+  <br>
 </p>
-
 
 ## About Me
 
-Test
+About me section paragraph...
 
 ## Skills
 
-Test
+Skills paragraph...
 
-## Languages
+## Certifications
+
+Certs paragraph...
+
+## Languages & Tools
+
+Languages and Tools section...
+
+## Education
+
 
 
 
