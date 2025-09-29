@@ -12,7 +12,7 @@
 
 ## 🍇 About Me
 
-I'm a full-time IT Specialist in the Financial Services industry. On the side, I create all-in-one digital portfolios for small businesses—custom websites, domain setup, web hosting, SEO, IMAP configuration, and Google search presence.
+I'm a full-time IT Specialist in the Financial Services industry. On the side, I create all-in-one digital portfolios for small businesses—custom websites, domain setup, web hosting, SEO, IMAP configuration, and Google search presence. I'm fascinated by how technology connects people—whether through intuitive front-end design, empowering small businesses to get online, or strengthening systems with security and reliability. With every project, I’m building a foundation I plan to grow into the broader field of cybersecurity.
 
 ## 🔮 Skills
 
